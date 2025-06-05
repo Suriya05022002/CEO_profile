@@ -80,7 +80,8 @@ body {
 .hero-title,
 .hero-company,
 .text-content p,
-.footer-bottom p {
+.footer-bottom p,
+.step-content p{
   font-family: "Work Sans", sans-serif;
 }
 
