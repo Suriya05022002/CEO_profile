@@ -1145,6 +1145,13 @@ section {
   margin-top: var(--spacing-md);
   flex-wrap: wrap;
 }
+.achievement-visual {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 50px;
+  justify-content: center;
+  margin-top: 30px;
+}
 
 .stat {
   text-align: center;
